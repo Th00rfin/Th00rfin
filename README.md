@@ -30,6 +30,12 @@ I'm John Michael Dacara, a passionate web developer from Manila, Philippines. We
 [ burp suite, metasploit, ghidra, and more ] - pentest
 
 ## Projects
+- https://github.com/Th00rfin/weather-app
+- https://github.com/Th00rfin/timer
+- https://github.com/Th00rfin/calendar-
+- https://github.com/Th00rfin/decimal-converter-
+- https://github.com/Th00rfin/backend-chatbot
+- https://github.com/Th00rfin/Fullstack-Application-OpenAi-integration
 
 
 ## Fun Facts about me
