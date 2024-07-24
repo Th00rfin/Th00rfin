@@ -6,7 +6,7 @@
 ![Static Badge](https://img.shields.io/badge/figma-rgb(221%20214%20254)?logo=figma&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/linux-rgb(250%20250%20249)?logo=linux&labelColor=white)
 
-
+![Th00rfin's Stats](https://github-readme-stats.vercel.app/api?username=Th00rfin&theme=tokyonight&show_icons=true&hide_border=false&count_private=false)
 
 
 
